@@ -33,3 +33,16 @@ def square(number):
 
 result = square(3)
 print(result)
+
+
+def emoji_converter(message):
+    words = message.split(" ")
+    emojis = {
+        ":)": "😊",
+    ":(": "🙁"
+}
+output=""
+for word in words:
+    output += emojis.get(word,word)+" "
+print(emojis_converter)
+
