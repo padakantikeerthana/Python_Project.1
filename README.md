@@ -17,6 +17,4 @@ This repository contains Python practice programs and mini projects developed to
 - Python 3
 - VS Code
 
-## Author
-Padakanti Keerthana
-B.Tech Information Technology Student
+
